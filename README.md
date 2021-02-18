@@ -2,7 +2,7 @@
 
  the user will be able to look up and search people based on otheir first name, last name and their city.
 
-
+Live app should be hosted here: https://ningthangom.github.io/react-user-directory/
 ![gif](/userdirectory.gif)
 
 # How it works
