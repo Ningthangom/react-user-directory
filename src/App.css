@@ -1,0 +1,25 @@
+body {
+  background-color:grey;
+  color:white;
+}
+
+
+.clickHeader:hover {
+    cursor: pointer;
+    padding: 0.625rem;
+    background-color: green;
+  }
+
+  thead span.ZtoA::after {
+    margin-left: 0.1875rem;
+    content: "⬇";
+    display: inline-block;
+    
+  }
+  
+  thead span.AtoZ::after {
+    margin-left: 0.1875rem;
+    content: "⬆";
+    display: inline-block;
+   
+  }
